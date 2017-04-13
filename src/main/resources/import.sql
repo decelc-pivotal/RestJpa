@@ -1,0 +1,2 @@
+insert into person (firstname, lastname, email, phone) values ('Chris', 'Jones', 'cjones@test.com','603.555.1212');
+insert into person (firstname, lastname, email, phone) values ('Tom', 'Smith', 'tom@test.com','978.555.1212');
